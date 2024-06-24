@@ -1,0 +1,41 @@
+
+body{
+    height: 100vh;
+    font-family: "consolas", sans-serif;
+    background: linear-gradient(to right, skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* we can also use an image for background  */
+}
+h1{
+    color:brown;
+   font-family: "Press Start 2P", "consolas", san-serif;
+   border-top-style:dotted ;
+   border-bottom-style: dotted;
+   border-left-style: double;
+   border-left-width: 10px;
+   border-left-color: silver;
+
+
+}
+h3{
+    color:chocolate;
+    margin: 5px;
+}
+p{
+    margin: 10px;
+    font-size: 18px;
+    /* border-style:solid;
+    border-width: 5px;
+    border-radius: 10px; */
+    /* padding: 5px; */
+}
+
+ul{
+    /* background: linear-gradient(to left, rgb(152, 204, 224),rgb(92, 172, 153)); */ */
+   
+}
+
+#course{
+    color: red
+}

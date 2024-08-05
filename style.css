@@ -9,13 +9,15 @@ body{
 }
 h1{
     color:brown;
-   font-family: "Press Start 2P", "consolas", san-serif;
-   border-top-style:dotted ;
+   font-family:  "consolas", san-serif;
+/*    border-top-style:dotted ;
    border-bottom-style: dotted;
    border-left-style: double;
    border-left-width: 10px;
    border-left-color: silver;
-
+ */
+    text-align = left;
+    width = 400px;
 
 }
 h3{
@@ -36,6 +38,4 @@ ul{
    
 }
 
-#course{
-    color: red
-}
+
